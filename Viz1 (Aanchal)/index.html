@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Stacked Area Chart</title>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+        <!-- Our CSS -->
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        
+    </head>
+    <body>
+
+        <!-- Create a container for the chart -->
+        <div id="stacked-area-chart"></div>
+
+        <!-- Create a container for the legend -->
+        <div id="legend"></div>
+
+        <!-- date range filter -->
+        <label for="start-date">Start Date:</label>
+        <input type="month" id="start-date" name="start-date">
+
+        <label for="end-date">End Date:</label>
+        <input type="month" id="end-date" name="end-date">
+
+        <button id="apply-filter">Apply Filter</button>
+        <script type="text/javascript" src="logic.js"></script>
+    </body>
+</html>
