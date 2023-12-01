@@ -6,7 +6,7 @@ Data & Delivery  - Aanchal (Was Supposed to be Allie)
 
 
 
-Back End (Page done by Kavi, Dashboard by Sahil) - Sahil/Kavi
+Back End (Page done by Kavi, Dashboard by Sahil) - Kavi/Sahil
 
 
 
