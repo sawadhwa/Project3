@@ -14,4 +14,4 @@ Visualization - Aanchal (1st and 2nd visualizations) and Giovonna (2nd and 3rd v
 
 
 
-https://docs.google.com/presentation/d/1L6i1GoVWgEBNBhpd3Y90ZSxKohl-nLblaY_0mJPoBg0/edit#slide=id.p (Google Slides, PowerPoint also included)
+https://docs.google.com/presentation/d/1L6i1GoVWgEBNBhpd3Y90ZSxKohl-nLblaY_0mJPoBg0/edit#slide=id.p (Google Slides, PowerPoint also included in Github)
