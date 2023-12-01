@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stacked Area Chart</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+     <!-- D3.js -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="line.js" defer></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+    <!-- Create a container for the chart -->
+    <div id="stacked-area-chart"></div>
+
+    <!-- date range filter -->
+    <label for="start-date">Start Date:</label>
+    <input type="month" id="start-date" name="start-date">
+
+    <label for="end-date">End Date:</label>
+    <input type="month" id="end-date" name="end-date">
+
+    <button id="apply-filter">Apply Filter</button>
+
+    <!-- Create a container for the chart -->
+    <div id="line-chart"></div>
+
+</body>
+
+</html>
